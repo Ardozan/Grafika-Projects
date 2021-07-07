@@ -204,9 +204,9 @@ void display()
     glBegin(GL_TRIANGLES);
 
     glColor3f(1.0,0.1,0.1);
-    glVertex2f(0.0,2.0);    //tinggi
-    glVertex2f(-1.0,0.0);   //kiri
-    glVertex2f(1.0,0.0);    //kanan
+    glVertex2f(0.0,2.0);    
+    glVertex2f(-1.0,0.0);   
+    glVertex2f(1.0,0.0);    
     glEnd();
 
     //P2
@@ -214,33 +214,33 @@ void display()
     glBegin(GL_TRIANGLES);
 
     glColor3f(1.0,0.5,0.0);
-    glVertex2f(0.0,4.0);    //tinggi
-    glVertex2f(-1.0,2.0);   //kiri
-    glVertex2f(1.0,2.0);    //kanan
+    glVertex2f(0.0,4.0);    
+    glVertex2f(-1.0,2.0);   
+    glVertex2f(1.0,2.0);   
     glEnd();
     //P3
     glBegin(GL_TRIANGLES);
 
     glColor3f(1.0,0.8,0.2);
-    glVertex2f(0.0,6.0);    //tinggi
-    glVertex2f(-1.0,4.0);   //kiri
-    glVertex2f(1.0,4.0);    //kanan
+    glVertex2f(0.0,6.0);    
+    glVertex2f(-1.0,4.0);   
+    glVertex2f(1.0,4.0);    
     glEnd();
     //P4
     glBegin(GL_TRIANGLES);
 
     glColor3f(1.0,0.1,0.1);
-    glVertex2f(0.0,-2.0);    //tinggi
-    glVertex2f(-1.0,0.0);   //kiri
-    glVertex2f(1.0,0.0);    //kanan
+    glVertex2f(0.0,-2.0);    
+    glVertex2f(-1.0,0.0);  
+    glVertex2f(1.0,0.0);   
     glEnd();
     //P5
     glBegin(GL_TRIANGLES);
 
     glColor3f(1.0,0.5,0.0);
-    glVertex2f(0.0,-4.0);    //tinggi
-    glVertex2f(1.0,-2.0);   //kiri
-    glVertex2f(-1.0,-2.0);    //kanan
+    glVertex2f(0.0,-4.0);    
+    glVertex2f(1.0,-2.0);   
+    glVertex2f(-1.0,-2.0);    
     glEnd();
 
     //P6
@@ -248,9 +248,9 @@ void display()
     glBegin(GL_TRIANGLES);
 
     glColor3f(1.0,0.8,0.2);
-    glVertex2f(0.0,-6.0);    //tinggi
-    glVertex2f(1.0,-4.0);   //kiri
-    glVertex2f(-1.0,-4.0);    //kanan
+    glVertex2f(0.0,-6.0);    
+    glVertex2f(1.0,-4.0);   
+    glVertex2f(-1.0,-4.0);   
     glEnd();
 
     //D1
